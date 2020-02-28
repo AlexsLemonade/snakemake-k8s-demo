@@ -1,0 +1,3 @@
+source_bucket: "kurt-soragni-sarcomas"
+fastq_dir: "fastq_raw"
+reference: "reference/Homo_sapiens.GRCh38.dna.primary_assembly"

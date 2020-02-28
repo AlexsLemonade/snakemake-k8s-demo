@@ -1,0 +1,4 @@
+snakemake==5.10.0
+docutils==0.15
+boto3
+kubernetes

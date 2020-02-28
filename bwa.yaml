@@ -1,0 +1,11 @@
+name: bwa
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bwa=0.7.17
+  - fastp=0.20.0
+  - htslib=1.10.2
+  - samtools=1.10
+  - kubernetes=10.0.1
